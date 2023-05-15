@@ -1,0 +1,20 @@
+{
+  "name": "todo-2",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isha Bhatt",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "install": "^0.13.0"
+  },
+  "description": "",
+  "devDependencies": {
+    "ejs": "^3.1.9",
+    "mongoose": "^7.1.0"
+  }
+}
